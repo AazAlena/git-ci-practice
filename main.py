@@ -1,4 +1,4 @@
 ```python
 def greet(name):
- retUUurn f"Hello, {name}!"
+ return f"Hello, {name}!"
 ```
